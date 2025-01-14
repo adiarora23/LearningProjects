@@ -1,1 +1,1 @@
-Here are all the projects I have been working on so far (constantly updating)!
+These projects contain datasets I use for personal learning. Feel free to check them out!
